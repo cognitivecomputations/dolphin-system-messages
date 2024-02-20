@@ -1,7 +1,8 @@
 # dolphin-system-messages
 Dolphin System Messages - Please contribute yours!
 
-I used https://platform.openai.com/tokenizer to estimate tokens
+I used https://platform.openai.com/tokenizer to estimate tokens.
+https://belladoreai.github.io/llama-tokenizer-js/example-demo/build/ Can also be used to estimate tokens for llama or Mistral based models.
 
 | System Message   | Tokens   | Description | Author |
 | ----------- | ----------- | ----------- |  ----------- |
